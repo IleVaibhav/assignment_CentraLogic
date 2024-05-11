@@ -35,7 +35,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Image.asset(
-                      'asset/images/app_logo.png',
+                      'asset/images/logo.png',
                       height: 40,
                       fit: BoxFit.fitHeight
                     ),
@@ -44,7 +44,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                       width: 15.0
                     ),
                     Text(
-                      'eMart',
+                      'BookBank',
                       style: TextStyle(
                         fontSize: 40,
                         fontWeight: FontWeight.bold,
@@ -78,7 +78,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                       ),
             
                       const Text(
-                        'Create Account for eMart',
+                        'Create Account for BookBank',
                         style: TextStyle(
                           fontSize: 18
                         )

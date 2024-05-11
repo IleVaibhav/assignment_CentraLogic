@@ -33,7 +33,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Image.asset(
-                      'asset/images/app_logo.png',
+                      'asset/images/logo.png',
                       height: 40,
                       fit: BoxFit.fitHeight
                     ),
@@ -42,7 +42,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       width: 15.0
                     ),
                     Text(
-                      'eMart',
+                      'BookBank',
                       style: TextStyle(
                         fontSize: 40,
                         fontWeight: FontWeight.bold,
@@ -76,7 +76,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       ),
             
                       const Text(
-                        'Login to eMart',
+                        'Login to BookBank',
                         style: TextStyle(
                           fontSize: 18
                         )

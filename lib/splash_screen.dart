@@ -16,7 +16,7 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
     Timer(
-      const Duration(seconds: 2), 
+      const Duration(seconds: 5),
       () {
         Navigator.pushReplacement(
           context, 
@@ -37,7 +37,7 @@ class _SplashScreenState extends State<SplashScreen> {
             const Spacer(),
 
             Image.asset(
-              'asset/images/square_logo.png'
+              'asset/images/logo.png'
             ),
 
             const SizedBox(
@@ -46,7 +46,7 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
 
             const Text(
-              'DreamDrive',
+              'BookBank',
               style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 25.0,
