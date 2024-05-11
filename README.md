@@ -1,16 +1,13 @@
 # assignment_2
 
-A new Flutter project.
+Requirements:
+  1. The app should have a home page displaying a list of products.
+  2. Each product should have a name, price, image
+  3. When a ListTile is clicked, navigate to a new page that displays the name and image of the clicked item.
+  4. Also add a back button to the second screen
+  5. 
+Bonus:
+  Customize the appearance of the list and the new page
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Instructions:
+  Continue this assignment with the login page
