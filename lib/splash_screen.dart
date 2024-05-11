@@ -37,7 +37,9 @@ class _SplashScreenState extends State<SplashScreen> {
             const Spacer(),
 
             Image.asset(
-              'asset/images/logo.png'
+              'asset/images/logo.png',
+              height: 100,
+              width: 100
             ),
 
             const SizedBox(

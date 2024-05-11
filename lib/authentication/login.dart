@@ -34,7 +34,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   children: [
                     Image.asset(
                       'asset/images/logo.png',
-                      height: 40,
+                      height: 50,
                       fit: BoxFit.fitHeight
                     ),
                     const SizedBox(
@@ -46,7 +46,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       style: TextStyle(
                         fontSize: 40,
                         fontWeight: FontWeight.bold,
-                        color: CommonData.bgColor
+                        color: Colors.blue.shade800
                       )
                     )
                   ],

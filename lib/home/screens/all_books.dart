@@ -72,7 +72,7 @@ class AllBooks extends StatelessWidget {
                   "\$${allBooks[index].price}",
                   style: TextStyle(
                     fontSize: 17,
-                    color: CommonData.bgColor,
+                    color: Colors.blue.shade800,
                     fontWeight: FontWeight.w700
                   )
                 )

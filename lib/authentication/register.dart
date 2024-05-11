@@ -46,9 +46,9 @@ class _RegisterScreenState extends State<RegisterScreen> {
                     Text(
                       'BookBank',
                       style: TextStyle(
-                        fontSize: 40,
+                        fontSize: 50,
                         fontWeight: FontWeight.bold,
-                        color: CommonData.bgColor
+                        color: Colors.blue.shade800
                       )
                     )
                   ],
