@@ -1,0 +1,182 @@
+{
+     "books": [
+          {
+               "id": "b1",
+               "title": "The C Programming Language",
+               "price": "53.4",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 10,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/the_c_programming_lang.jpg",
+               "vendor": "asset/images/vendors/vendor1.png",
+               "author": "Dennis Ritchie"
+          },
+          {
+               "id": "b2",
+               "title": "Design of UNIX Operating System",
+               "price": "73.99",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 12,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/design_of_unix.jpg",
+               "vendor": "asset/images/vendors/vendor2.png",
+               "author": "Morris J. Bach"
+          },
+          {
+               "id": "b3",
+               "title": "Professional Assembly Language",
+               "price": "38.45",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 14,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/professional_assembly_language.jpg",
+               "vendor": "asset/images/vendors/vendor3.png",
+               "author": "Richard A. Blum"
+          },
+          {
+               "id": "b4",
+               "title": "The C++ Programming Language",
+               "price": "69.91",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 16,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/cpp.jpg",
+               "vendor": "asset/images/vendors/vendor4.png",
+               "author": "Bjarne Stroustrup"
+          },
+          {
+               "id": "b5",
+               "title": "Descrete mathematics and Its Applications",
+               "price": "8.49",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 20,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/dm_rosen.jpg",
+               "vendor": "asset/images/vendors/vendor1.png",
+               "author": "Kenneth H. Rosen"
+          },
+          {
+               "id": "b6",
+               "title": "Introduction to Algorithms",
+               "price": "8.49",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 20,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/intro_to_algorithms.png",
+               "vendor": "asset/images/vendors/vendor2.png",
+               "author": "Thomas H. Cormen"
+          },
+          {
+               "id": "b7",
+               "title": "Linkers & Loaders",
+               "price": "8.49",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 20,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/linkers_loaders.jpg",
+               "vendor": "asset/images/vendors/vendor3.png",
+               "author": "John R. Levine"
+          },
+          {
+               "id": "b8",
+               "title": "Programming Applications for Microsoft Windows",
+               "price": "8.49",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 20,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/programming_server_side_app.jpg",
+               "vendor": "asset/images/vendors/vendor4.png",
+               "author": "Jaffrey Richter"
+          },
+          {
+               "id": "b9",
+               "title": "Programming Windows",
+               "price": "8.49",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 20,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/programming_windows.jpg",
+               "vendor": "asset/images/vendors/vendor1.png",
+               "author": "Charles Petzold"
+          },
+          {
+               "id": "b10",
+               "title": "Introduction to Computer Organization",
+               "price": "8.49",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 20,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/comp_organization.jpg",
+               "vendor": "asset/images/vendors/vendor2.png",
+               "author": "Robert G. Planti"
+          },
+          {
+               "id": "b11",
+               "title": "Computer Organization and Design",
+               "price": "8.49",
+               "review": "4",
+               "is_in_bag": false,
+               "availability": 20,
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra dignissim ac ac ac. Nibh et sed ac, eget malesuada.",
+               "cover_img": "asset/images/books/comp_org_and_design.jpg",
+               "vendor": "asset/images/vendors/vendor3.png",
+               "author": "John L. Hennessy"
+          }
+     ],
+
+     "vendors": [
+          "asset/images/vendors/vendor1.png",
+          "asset/images/vendors/vendor2.png",
+          "asset/images/vendors/vendor3.png",
+          "asset/images/vendors/vendor4.png"
+     ],
+
+     "authors": [
+          {
+               "id": "a1",
+               "name": "Dennis Ritchie",
+               "image": "asset/images/authors/dennis_ritchie.jpg",
+               "profession": "Computer Scientist"
+          },
+          {
+               "id": "a2",
+               "name": "Richard A. Blum",
+               "image": "asset/images/authors/richard_blum.jpg",
+               "profession": "Computer Scientist"
+          },
+          {
+               "id": "a3",
+               "name": "Morris J. Bach",
+               "image": "asset/images/authors/author_dummy.png",
+               "profession": "Computer Scientist"
+          },
+          {
+               "id": "a4",
+               "name": "Bjarne Stroustrup",
+               "image": "asset/images/authors/bjarne_stroustrup.jpeg",
+               "profession": "Computer Scientist"
+          },
+          {
+               "id": "a5",
+               "name": "Kenneth H. Rosen",
+               "image": "asset/images/authors/author_dummy.png",
+               "profession": "Mathematician"
+          },
+          {
+               "id": "a6",
+               "name": "Charles Petzold",
+               "image": "asset/images/authors/charles_petzold.jpg",
+               "profession": "Mathematician"
+          }
+     ]
+}
